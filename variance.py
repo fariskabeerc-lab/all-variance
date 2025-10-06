@@ -14,8 +14,8 @@ outlets_files = {
     "Liwan": "LWN Stock.Xlsx",
     "Blue Pearl": "BPS Stock.Xlsx",
     "Sahat": "SAD Stock.Xlsx",
-    "TayTay": "TTD Stock Comparison On 29-Sep-2025 2.Xlsx",
-    "Safa Bur Dubai": "SAM_Stock Comparison On 23-Sep-2025_5.Xlsx"
+    "TayTay": "TTD Stock Comparison On 29-Sep-2025 2.Xlsx"
+    
 }
 
 # --- Passwords for each outlet ---
@@ -26,8 +26,7 @@ outlet_passwords = {
     "Liwan": "123456",
     "Blue Pearl": "1234567",
     "Sahat": "12345678",
-    "TayTay": "123456789",
-    "Safa Bur Dubai": "1234567890"
+    "TayTay": "123456789"
 }
 
 # --- Sidebar: Select Outlet ---
